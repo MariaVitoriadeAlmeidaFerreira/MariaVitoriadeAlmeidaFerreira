@@ -1,33 +1,30 @@
-# Oiii! Eu sou a Vitória 👋✨
-
-🎓 Estudante de **Design Digital**  
-💻 Aprendendo **JavaScript** e **TypeScript**  
-🚀 Em busca de me tornar uma desenvolvedora criativa e apaixonada por tecnologia!
-
----
-
-## 📊 Minhas estatísticas no GitHub:
-
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MariaVitoriadeAlmeidaFerreira&show_icons=true&theme=tokyonight&hide=issues" />
- 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Olá+✨;Eu+sou+a+Maria+Vitória" alt="Typing SVG" />
 </div>
 
 ---
 
-## 🛠️ Tecnologias que estou aprendendo:
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS"/>
+💗 Estudante de **Design Digital** | **UFC - Campus Quixadá**  
+💡 Criativa, curiosa e apaixonada por interfaces, arte e tecnologia  
+📚 Atualmente aprendendo: **JavaScript** e **TypeScript**
+
+---
+
+### 💻 Tecnologias:
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
 </p>
 
 ---
 
-## 📫 Onde me encontrar:
-- *(almeidademariavitoria@gmail.com)*
+### 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MariaVitoriadeAlmeidaFerreira&theme=rose_pine&show_icons=true&hide=issues" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaVitoriadeAlmeidaFerreira&layout=compact&theme=rose_pine" height="180em"/>
+</div>
 
----
 
-> Obrigada por visitar meu perfil! Vamos construir coisas incríveis juntas! 💜
+
