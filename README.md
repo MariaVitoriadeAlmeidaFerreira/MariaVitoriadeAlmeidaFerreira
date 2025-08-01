@@ -23,7 +23,7 @@
 ### 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MariaVitoriadeAlmeidaFerreira&theme=rose_pine&show_icons=true&hide=issues" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaVitoriadeAlmeidaFerreira&layout=compact&theme=rose_pine" height="180em"/>
+
 </div>
 
 
