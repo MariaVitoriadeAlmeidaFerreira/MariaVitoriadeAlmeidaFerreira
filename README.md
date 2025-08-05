@@ -43,12 +43,13 @@ Estou sempre em busca de novos desafios para praticar e evoluir como desenvolved
 
 ## 🎀 Contatos:
 
-<div align="center">
-  <a href="mailto:almeidademariavitoria@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/maria-vitória-de-almeida-ferreira-396821306" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<div align="center"> 
+ 
+  <a href = "mailto:almeidademariavitoria@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=862931&color=E9D8D4" target="_blank"></a>
+   <a href="https://www.linkedin.com/in/maria-vitória-de-almeida-ferreira-396821306" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%23862931?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+
+
   </a>
   
 </div>
