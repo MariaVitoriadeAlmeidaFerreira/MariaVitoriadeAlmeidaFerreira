@@ -21,7 +21,7 @@ Estou sempre em busca de novos desafios para praticar e evoluir como desenvolved
 
 ## <img src="rosa_estatistica.png" width="28" height="28" style="vertical-align:middle;"> Estatísticas Gerais:
   <div align="center">
-    <img src="https://github-readme-stats-Vitoria.vercel.app/api?username=alana102&show_icons=true&theme=rose&rank_icon=github" height="150" alt="stats graph" />
+    <img src="https://github-readme-stats-alana.vercel.app/api?username=MariaVitoriadeAlmeidaFerreira&show_icons=true&theme=rose&rank_icon=github" height="150" alt="stats graph" />
     <img height=150 src="https://github-readme-stats-alana.vercel.app/api/top-langs?username=MariaVitoriadeAlmeidaFerreira&layout=compact&langs_count=8&theme=rose" />
 </div>
 ---
