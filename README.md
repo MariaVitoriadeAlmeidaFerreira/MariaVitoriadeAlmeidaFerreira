@@ -37,7 +37,7 @@ Estou sempre em busca de novos desafios para praticar e evoluir como desenvolved
 
 ---
 
-## Commits:
+##💗 Commits:
 <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=MariaVitoriadeAlmeidaFerreira&theme=rose" alt="streak stats" />
 </div>
