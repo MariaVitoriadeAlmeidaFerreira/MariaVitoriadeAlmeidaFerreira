@@ -37,7 +37,10 @@ Estou sempre em busca de novos desafios para praticar e evoluir como desenvolved
 
 
 
----
+##⋆｡‧˚ʚ🍓ɞ˚‧｡⋆ Commits:
+<div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=alana102&theme=rose" alt="streak stats" />
+</div>
 
 ## 🎀 Contatos:
 
